@@ -6,7 +6,7 @@ for i in range(n):
 
 print("Your list is:", l)
 
-#sum of elements of list
+#Multiplication of elements of list
 M=1
 for x in l:
     M = M*x
